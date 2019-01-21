@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreference
+        android:defaultValue="true"
+        android:key="compress"
+        android:summary="Сжатие немного ухудшает качество, но заметно улучшает скорость"
+        android:title="Сжимать коды" />
+    <ListPreference
+        android:defaultValue="3"
+        android:entries="@array/compress_qr"
+        android:entryValues="@array/compress_qr"
+        android:key="code_resolution"
+        android:summary="Выберите разрешение QR_кода"
+        android:title="Разрешение кода" />
+</PreferenceScreen>

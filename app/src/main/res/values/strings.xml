@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Генератор QR</string>
+    <string name="qr_generated">QR код сгенерирован</string>
+    <string name="enter_some_text">Введите текст: </string>
+    <string name="generate_qr_code">Выберите тип кода</string>
+    <string name="generator">GENERATOR</string>
+    <string name="input_text">Введите текст</string>
+    <string name="generate">Сгенерировать</string>
+    <string name="Back">Возврат на главную</string>
+    <string name="todo">TODO</string>
+    <string name="qr_code_popup">QR код</string>
+    <string name="bar_code_popup">Штрих код</string>
+    <string name="bar_on_button">Штрих код</string>
+    <string name="qr_on_button">QR код</string>
+    <string name="empty_editText">Пустое поле для ввода</string>
+    <string name="type_non_selected">Не выбран тип кода</string>
+    <string name="action_settings">Настройки</string>
+    <string name="action_about">О приложении</string>
+    <string name="about_app">Приложение для генерации QR и штрих-кодов. Разработано в рамках образовательной программы IT SCHOOL SAMSUNG 2017–2018 год. Автор проекта: Хейнов Владислав</string>
+    <string name="quit">Нажмите еще раз для выхода из приложения</string>
+    <string name="save_picture">Сохранить код</string>
+    <string name="picture_saved_toast">Код сохранён</string>
+    <string name="too_length">Введённый текст должен иметь длину менее 300 символов</string>
+    <string name="share">Поделиться</string>
+    <string name="save">Сохранить</string>
+    <string name="tap_to_action_on_image">Нажмите на картинку чтобы открыть меню действий</string>
+    <string name="about_title">О приложении</string>
+    <string name="permission_denied">Приложению не были выданы необходимые разрешения</string>
+    <string name="open_in_galery">Открыть в галерее</string>
+    <string name="should_save">Вам сперва нужно сохранить код</string>
+    <string name="file_saved_at">Файл сохранён в:</string>
+</resources>
